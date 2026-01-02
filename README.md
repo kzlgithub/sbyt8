@@ -11,4 +11,5 @@ DNSHE免费域名注册：https://my.dnshe.com
 
 ## DigitalPlat Domain
 [FreeDomain开源项目](https://github.com/DigitalPlatDev/FreeDomain)
+
 DigitalPlat Domain免费域名注册：https://domain.digitalplat.org/
