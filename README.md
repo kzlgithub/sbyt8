@@ -1,5 +1,7 @@
 
 
+# 🚀 【永久免费域名】简单申请永久免费域名DNSHE DigitalPlat Free Domain托管到CloudFlare
+
 <div align="center">
   <a href="https://www.youtube.com/@%E8%B5%9B%E5%8D%9A%E4%BA%91%E6%A2%AF">
     <strong>🚀 点击访问赛博云梯 YouTube 主页</strong>
