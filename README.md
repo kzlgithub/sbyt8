@@ -1,3 +1,4 @@
+[![图片](https://img.youtube.com/vi/g0Io_0IeU6c/0.jpg)](https://www.youtube.com/watch?v=g0Io_0IeU6c)
 
 
 # 🚀 【永久免费域名】简单申请永久免费域名DNSHE DigitalPlat Free Domain托管到CloudFlare
