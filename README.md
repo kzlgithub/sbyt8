@@ -18,8 +18,7 @@ DNSHE免费域名注册：https://my.dnshe.com
 DigitalPlat Domain免费域名注册：https://domain.digitalplat.org/
 
 DigitalPlat Domain用户面板：https://dash.domain.digitalplat.org/panel/main
-
-
+<br><br>
 随机地址电话生成：https://addressgenerator.top/zh/us-address-generator
 
 itdog测试dns解析：https://www.itdog.cn/ping/
